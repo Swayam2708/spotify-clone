@@ -11,7 +11,7 @@ This project replicates the Spotify UI with sidebar navigation, playlists, and a
 ---
 
 ## 📸 Screenshot
-![App Screenshot](./assets/preview.png.png)
+![App Screenshot](./assets/preview.png)
 
 ---
 
@@ -34,3 +34,4 @@ This project replicates the Spotify UI with sidebar navigation, playlists, and a
 1. Clone the repo:  
    ```bash
    git clone https://github.com/swayam2708/spotify-clone.git
+
