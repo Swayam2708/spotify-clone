@@ -1,4 +1,4 @@
-# 🎵 Spotify Clone
+# 🎵 Spotify Web
 
 A simple **Spotify Web Player Clone** built using **HTML & CSS**.  
 This project replicates the Spotify UI with sidebar navigation, playlists, and a bottom music player.
@@ -30,5 +30,6 @@ This project replicates the Spotify UI with sidebar navigation, playlists, and a
 1. Clone the repo:  
    ```bash
    git clone https://github.com/swayam2708/spotify-clone.git
+
 
 
